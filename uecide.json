@@ -1,0 +1,21 @@
+{
+    "name": "PubSubClient",
+    "provides": "PubSubClient.h",
+    "license": "LICENSE.txt",
+    "readme": "README.md",
+    "description": "This library provides a client for doing simple publish/subscribe messaging with a server that supports MQTT.",
+    "category": "Communications",
+    "subcategory": "Protocols",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "2.0.0",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "LICENSE.txt": "/",
+        "README.md": "/",
+        "src": "/",
+        "library.properties": "/"
+    }
+}
